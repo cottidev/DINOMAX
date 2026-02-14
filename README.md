@@ -29,11 +29,7 @@ Check it out on GitHub: [cottidev/DINOMAX](https://github.com/cottidev/DINOMAX)
 - `style.css` – Optional styling  
 - `script.js` – Game logic and rendering  
 - `img/` – Dino and cactus sprites  
-- `audio/` – Background music & jump sound  
+- `audio/` – Background music & jump sound
 
----
-
-## 💻 How to Run Locally
-1. Clone the repo:  
-```bash
-git clone https://github.com/cottidev/DINOMAX.git
+## Finaly:
+have fun! and happy coding
